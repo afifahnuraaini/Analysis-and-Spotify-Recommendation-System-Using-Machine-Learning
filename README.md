@@ -6,7 +6,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk mengembangkan sistem rekomendasi musik yang disesuaikan dengan mood pengguna. Dengan menggunakan data Spotify dan algoritma machine learning, khususnya Jaringan Saraf Tiruan (ANN), sistem ini menganalisis berbagai fitur audio untuk memberikan rekomendasi lagu yang lebih personal. Tujuan utama proyek ini adalah untuk memberikan pengalaman mendengarkan musik yang lebih intuitif dan sesuai dengan kondisi emosi pengguna.
+Proyek ini bertujuan untuk mengembangkan sistem rekomendasi musik yang disesuaikan dengan mood pengguna. Dengan menggunakan data Spotify yang diambil dari Kaggle dan algoritma machine learning, khususnya Jaringan Saraf Tiruan (ANN), sistem ini menganalisis berbagai fitur audio untuk memberikan rekomendasi lagu yang lebih personal. Tujuan utama proyek ini adalah untuk memberikan pengalaman mendengarkan musik yang lebih intuitif dan sesuai dengan kondisi emosi pengguna.
 
 ## Langkah-Langkah Utama dalam Proyek
 
@@ -24,6 +24,10 @@ Proyek ini bertujuan untuk mengembangkan sistem rekomendasi musik yang disesuaik
 Dengan menggabungkan pembersihan data, analisis data eksploratori, dan penerapan machine learning, proyek ini berhasil menciptakan sistem rekomendasi musik yang dapat memberikan rekomendasi lagu yang lebih personal berdasarkan mood pengguna. Sistem ini memanfaatkan fitur audio dari Spotify untuk mencocokkan pengguna dengan musik yang tepat pada waktu yang tepat.
 
 ---
+
+### Sumber Data
+
+Data yang digunakan dalam proyek ini diambil dari Kaggle, yang berisi berbagai fitur audio dari lagu-lagu di Spotify, termasuk danceability, energy, tempo, dan lainnya.
 
 ### Jelajahi Proyek Ini
 
