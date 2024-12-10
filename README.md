@@ -1,4 +1,4 @@
-# Sistem Rekomendasi Musik Berdasarkan Mood
+# Menyelami Dunia Musik: Analisis dan Sistem Rekomendasi Spotify Menggunakan Machine Learning
 
 **Nama:** Afifah Nuraini Majid  
 **NIM:** M0122005  
